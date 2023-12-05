@@ -1,0 +1,6 @@
+sudo dnf update -y
+
+sudo dnf install nginx -y
+
+sudo su (root user permission)
+
